@@ -45,6 +45,8 @@ Data Scientist with 3+ years of experience in using advanced analytical techniqu
 - RetailSensai:  Predict future sales trends and optimize inventory levels to minimize stockouts and overstock situations.
 - Customer-segmentation-analysis-product-recommender-system:  Identify distinct customer segments and their behavior patterns to enhance marketing strategies and customer experience.
 - Bayesian-cost-optimization:  Identify inefficiencies in operational processes and recommend improvements to reduce costs and enhance productivity.
+- Stock Trading Prediction: Accurate predictions can help investors and traders make informed decisions about buying or selling stocks. By analyzing historical data, market trends, and other relevant factors, predictions can provide insights into potential price movements and help traders make profitable trades.
+- Football Outcome Prediction: Football is the KING sports of the world, it attracts humanity and predicting the result is one of the trending in betting.
 
 
 ## Contact Me
