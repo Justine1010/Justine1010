@@ -26,7 +26,7 @@
 Data Scientist with 3+ years of experience in using advanced analytical techniques to solve complex business problems. Skilled in statistical modeling, machine learning, and data visualization. Proven ability to extract actionable insights from large datasets and effectively communicate findings to stakeholders. Proficient in Python, R, SQL, and Power BI.
 
 
-- 🔭 I’m currently exploring the intersection of AI and MLOps
+- 🔭 I’m currently exploring the intersection of AI and MLOps, LLMs (OpenAI, Stable Diffusion, Midjourney, dall-E and etc)
 - 🌱 I’m constantly learning and staying up-to-date with the latest advancements in the field
 - 💼 I'm open to new opportunities and exciting projects that push the boundaries of AI applications
 
@@ -47,6 +47,7 @@ Data Scientist with 3+ years of experience in using advanced analytical techniqu
 - Bayesian-cost-optimization:  Identify inefficiencies in operational processes and recommend improvements to reduce costs and enhance productivity.
 - Stock Trading Prediction: Accurate predictions can help investors and traders make informed decisions about buying or selling stocks. By analyzing historical data, market trends, and other relevant factors, predictions can provide insights into potential price movements and help traders make profitable trades.
 - Football Outcome Prediction: Football is the KING sports of the world, it attracts humanity and predicting the result is one of the trending in betting.
+- Bot development: Discord bot which is related to OpenAI so that it helps guests to my discord server.
 
 
 ## Contact Me
