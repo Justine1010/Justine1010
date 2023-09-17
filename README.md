@@ -1,5 +1,5 @@
 
-# Hello, I'm Justine Hui👋
+# Hello, AI, ML crazy here!
 
 <!-- # 💻 Tech Stack: -->
 [![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
