@@ -1,5 +1,5 @@
 
-# Hello, AI, ML crazy here!
+# Hello, Ali Steeve is here!
 
 <!-- # 💻 Tech Stack: -->
 [![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
